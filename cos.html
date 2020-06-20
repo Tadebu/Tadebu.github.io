@@ -1,6 +1,165 @@
-<!--[if !IE]><!-->
-	<object data="http://www.google.com/" type="text/html" width="320" height="240"></object>
+
+<!DOCTYPE html>
+<html ng-controller="ElementsCtrl as elements" ng-strict-di>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
 <!--<![endif]-->
-<!--[if IE]>
-	<iframe frameborder="0" src="http://www.google.com/" width="320" height="240"></iframe>
-<![endif]-->
+
+<head>
+  <!--must have tags-->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <base href="/" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+
+  <!--Og tags-->
+  <meta property="og:title" content="StreamElements - The ultimate tools for live streaming" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://streamelements.com/" />
+  <meta property="og:site_name" content="StreamElements" />
+  <meta property="og:description" content="The Ultimate All in One Platform for Streamers" />
+  <meta property="og:image" content="https://cdn.streamelements.com/static/homepages/open_graph_preview.jpg" />
+  <meta property="fb:app_id" content="296563517417145" />
+
+  <!--misc meta tags-->
+  <meta name="description" content="The Ultimate All in One Platform for Streamers" />
+  <meta name="keywords" content="Gaming,Streaming,StreamElements" />
+  <meta name="author" content="StreamElements" />
+  <link rel="icon" href="https://cdn.streamelements.com/static/logo/logo_red.png" />
+
+  <!--extra tags-->
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="copyright" content="StreamElements" />
+
+  <title ng-bind="'StreamElements - ' + $root.title">StreamElements</title>
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i|Indie+Flower|Lato:100,300,400,700|Lobster|Montserrat|Open+Sans:300,400,600,700,800|Oswald|Quicksand|Roboto:100,300,400,500,700,900|Source+Sans+Pro:200,300,400,600,700,900"
+    rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css" />
+  <link rel="stylesheet" href="overlay/styles/vendor.css">
+
+  <link rel="stylesheet" href="overlay/styles/app.css">
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-M3DK7BQ');
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !(function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function () {
+        n.callMethod
+          ? n.callMethod.apply(n, arguments)
+          : n.queue.push(arguments);
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s);
+    })(
+      window,
+      document,
+      'script',
+      'https://connect.facebook.net/en_US/fbevents.js',
+    );
+    fbq('init', '118729892094447'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=118729892094447&ev=PageView&noscript=1" /></noscript>
+  <!-- DO NOT MODIFY -->
+  <!-- End Facebook Pixel Code -->
+
+  <!-- Hotjar Tracking Code for www.streamelements.com -->
+  <script>
+    const isProduction = 'production' === 'production';
+    const isEditor = window.location.pathname.includes('editor');
+
+    (function (h, o, t, j, a, r) {
+      if (!isProduction) {
+        console.log('Skipping hotjar script because this isnt production');
+        return;
+      }
+
+      if (!isEditor) {
+        return;
+      }
+
+      h.hj = h.hj || function () {(h.hj.q = h.hj.q || []).push(arguments)};
+      h._hjSettings = {hjid: 1098403, hjsv: 6};
+      a = o.getElementsByTagName('head')[0];
+      r = o.createElement('script'); r.async = 1;
+      r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+  </script>
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3DK7BQ" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!--[if lt IE 7]>
+      <p class="browsehappy">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="http://browsehappy.com/">upgrade your browser</a> to improve
+        your experience.
+      </p>
+    <![endif]-->
+
+  <div ui-view="" id="app"></div>
+
+  <script src="overlay/scripts/vendor.js"></script>
+
+  
+
+  <script src="overlay/scripts/app.js"></script>
+
+  <!-- Angular bootstrap -->
+  <script src="app/bootstrap.module.js?v=1" type="javascript"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-chart.js/1.1.1/angular-chart.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+  <script src="https://cdn.streamelements.com/scripts/twemoji.min.js"></script>
+
+  <!--Typekit-->
+  <script src="https://use.typekit.net/xbm0wzk.js"></script>
+  <script>try {
+      Typekit.load({async: true});
+    } catch (e) {}
+  </script>
+
+</body>
+
+</html>
