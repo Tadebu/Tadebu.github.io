@@ -1961,7 +1961,7 @@
         },
         {
             "key": 1,
-            "waarde": "ongeveer"
+            "value": "ongeveer"
         },
         {
             "key": 2,
@@ -1969,7 +1969,7 @@
         },
         {
             "key": 3,
-            "waarde": "terug"
+            "value": "terug"
         },
         {
             "key": 4,
@@ -1977,7 +1977,7 @@
         },
         {
             "key": 5,
-            "waarde": "vergrendeld"
+            "value": "vergrendeld"
         },
         {
             "key": 6,
@@ -2005,7 +2005,7 @@
         },
         {
             "key": 12,
-            "waarde": "doorgaan"
+            "value": "doorgaan"
         },
         {
             "key": 13,
@@ -2021,15 +2021,15 @@
         },
         {
             "key": 16,
-            "waarde": "tarief"
+            "value": "tarief"
         },
         {
             "key": 17,
-            "waarde": "nooit"
+            "value": "nooit"
         },
         {
             "key": 18,
-            "waarde": "later"
+            "value": "later"
         },
         {
             "key": 19,
@@ -2045,11 +2045,11 @@
         },
         {
             "key": 22,
-            "waarde": "ja"
+            "value": "ja"
         },
         {
             "key": 23,
-            "waarde": "nee"
+            "value": "nee"
         },
         {
             "key": 24,
@@ -2065,7 +2065,7 @@
         },
         {
             "key": 27,
-            "waarde": "Wilt u dat wij u relevante advertenties aanbieden die bij uw interesses passen?"
+            "value": "Wilt u dat wij u relevante advertenties aanbieden die bij uw interesses passen?"
         },
         {
             "key": 28,

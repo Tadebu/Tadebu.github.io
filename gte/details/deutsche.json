@@ -1,4 +1,4 @@
-﻿{
+{
     "tasksData": [
         {
             "name": "Robot Emotes",
@@ -2109,7 +2109,7 @@
         },
         {
             "key": 38,
-            "värde": "Tryck på bokstaven för att rensa den. Svep för att rensa alla bokstäver."
+            "value": "Tryck på bokstaven för att rensa den. Svep för att rensa alla bokstäver."
         },
         {
             "key": 39,
@@ -2129,7 +2129,7 @@
         },
         {
             "key": 43,
-            "värde": "Knacka på området för att börja sikta. Tryck andra gången för att skjuta. Kräver guld!"
+            "value": "Knacka på området för att börja sikta. Tryck andra gången för att skjuta. Kräver guld!"
         },
         {
             "key": 44,

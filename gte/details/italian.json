@@ -1,4 +1,4 @@
-﻿{
+{
     "tasksData": [
         {
             "name": "Robot Emotes",
@@ -1969,7 +1969,7 @@
         },
         {
             "key": 3,
-            "valore": "indietro"
+            "value": "indietro"
         },
         {
             "key": 4,
@@ -2005,7 +2005,7 @@
         },
         {
             "key": 12,
-            "valore": "continua"
+            "value": "continua"
         },
         {
             "key": 13,
@@ -2025,7 +2025,7 @@
         },
         {
             "key": 17,
-            "valore": "mai"
+            "value": "mai"
         },
         {
             "key": 18,
@@ -2045,11 +2045,11 @@
         },
         {
             "key": 22,
-            "valore": "sì"
+            "value": "sì"
         },
         {
             "key": 23,
-            "valore": "no"
+            "value": "no"
         },
         {
             "key": 24,
@@ -2069,7 +2069,7 @@
         },
         {
             "key": 28,
-            "valore": "Conferma"
+            "value": "Conferma"
         },
         {
             "key": 29,

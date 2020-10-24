@@ -1,4 +1,4 @@
-﻿{
+{
     "tasksData": [
         {
             "name": "Robot Emotes",
@@ -1957,19 +1957,19 @@
     "gameItems": [
         {
             "key": 0,
-            "valor": "reproducir"
+            "value": "reproducir"
         },
         {
             "key": 1,
-            "valor": "acerca de"
+            "value": "acerca de"
         },
         {
             "key": 2,
-            "valor": "salir"
+            "value": "salir"
         },
         {
             "key": 3,
-            "valor": "atrás"
+            "value": "atrás"
         },
         {
             "key": 4,
@@ -1977,7 +1977,7 @@
         },
         {
             "key": 5,
-            "valor": "bloqueado"
+            "value": "bloqueado"
         },
         {
             "key": 6,
@@ -2005,11 +2005,11 @@
         },
         {
             "key": 12,
-            "valor": "continuar"
+            "value": "continuar"
         },
         {
             "key": 13,
-            "valor": "menú principal"
+            "value": "menú principal"
         },
         {
             "key": 14,
@@ -2021,15 +2021,15 @@
         },
         {
             "key": 16,
-            "valor": "tasa"
+            "value": "tasa"
         },
         {
             "key": 17,
-            "valor": "nunca"
+            "value": "nunca"
         },
         {
             "key": 18,
-            "valor": "más tarde"
+            "value": "más tarde"
         },
         {
             "key": 19,
@@ -2045,11 +2045,11 @@
         },
         {
             "key": 22,
-            "valor": "sí"
+            "value": "si"
         },
         {
             "key": 23,
-            "valor": "no"
+            "value": "no"
         },
         {
             "key": 24,
@@ -2065,11 +2065,11 @@
         },
         {
             "key": 27,
-            "valor": "¿Quiere que le presentemos publicidad relevante que se ajuste a sus intereses?"
+            "value": "¿Quiere que le presentemos publicidad relevante que se ajuste a sus intereses?"
         },
         {
             "key": 28,
-            "valor": "Confirmar"
+            "value": "Confirmar"
         },
         {
             "key": 29,
@@ -2101,7 +2101,7 @@
         },
         {
             "key": 36,
-            "valor": "Apuesta"
+            "value": "Apuesta"
         },
         {
             "key": 37,
@@ -2109,7 +2109,7 @@
         },
         {
             "key": 38,
-            "valor": "Toca la letra para borrarla. Desliza para borrar todas las letras".
+            "value": "Toca la letra para borrarla. Desliza para borrar todas las letras"
         },
         {
             "key": 39,
@@ -2141,11 +2141,11 @@
         },
         {
             "key": 46,
-            "valor": "más juegos"
+            "value": "más juegos"
         },
         {
             "key": 47,
-            "valor": "Reintentar"
+            "value": "Reintentar"
         }
     ],
     "subCategories": [
