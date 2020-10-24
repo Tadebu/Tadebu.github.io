@@ -1,4 +1,4 @@
-﻿{
+{
     "tasksData": [
         {
             "name": "Robot Emotes",
@@ -1957,19 +1957,19 @@
     "gameItems": [
         {
             "key": 0,
-            "valor": "jogar"
+            "value": "jogar"
         },
         {
             "key": 1,
-            "valor": "sobre"
+            "value": "sobre"
         },
         {
             "key": 2,
-            "valor": "sair"
+            "value": "sair"
         },
         {
             "key": 3,
-            "valor": "voltar"
+            "value": "voltar"
         },
         {
             "key": 4,
@@ -1977,79 +1977,79 @@
         },
         {
             "key": 5,
-            "valor": "bloqueado"
+            "value": "bloqueado"
         },
         {
             "key": 6,
-            "valor": "Revelar uma carta"
+            "value": "Revelar uma carta"
         },
         {
             "key": 7,
-            "valor": "Remover letras"
+            "value": "Remover letras"
         },
         {
             "key": 8,
-            "valor": "Obtenha uma resposta"
+            "value": "Obtenha uma resposta"
         },
         {
             "key": 9,
-            "valor": "Obter moedas"
+            "value": "Obter moedas"
         },
         {
             "key": 10,
-            "valor": "Assistir AD"
+            "value": "Assistir AD"
         },
         {
             "key": 11,
-            "valor": "Compre com dinheiro real"
+            "value": "Compre com dinheiro real"
         },
         {
             "key": 12,
-            "valor": "continuar"
+            "value": "continuar"
         },
         {
             "key": 13,
-            "valor": "menu principal"
+            "value": "menu principal"
         },
         {
             "key": 14,
-            "valor": "Nível concluído!"
+            "value": "Nível concluído!"
         },
         {
             "key": 15,
-            "valor": "Se você gostou do jogo, avalie-o no Google Play!"
+            "value": "Se você gostou do jogo, avalie-o no Google Play!"
         },
         {
             "key": 16,
-            "valor": "taxa"
+            "value": "taxa"
         },
         {
             "key": 17,
-            "valor": "nunca"
+            "value": "nunca"
         },
         {
             "key": 18,
-            "valor": "mais tarde"
+            "value": "mais tarde"
         },
         {
             "key": 19,
-            "valor": "Consentimento para coleta de dados"
+            "value": "Consentimento para coleta de dados"
         },
         {
             "key": 20,
-            "valor": "Anúncios personalizados"
+            "value": "Anúncios personalizados"
         },
         {
             "key": 21,
-            "valor": "Permitir que as redes de anúncios também usem dados coletados e exibam anúncios personalizados"
+            "value": "Permitir que as redes de anúncios também usem dados coletados e exibam anúncios personalizados"
         },
         {
             "key": 22,
-            "valor": "sim"
+            "value": "sim"
         },
         {
             "key": 23,
-            "valor": "não"
+            "value": "não"
         },
         {
             "key": 24,
@@ -2057,7 +2057,7 @@
         },
         {
             "key": 25,
-            "valor": "Deseja carregá-lo?"
+            "value": "Deseja carregá-lo?"
         },
         {
             "key": 26,
@@ -2065,27 +2065,27 @@
         },
         {
             "key": 27,
-            "valor": "Quer que lhe apresentemos publicidade relevante que se adeque aos seus interesses?"
+            "value": "Quer que lhe apresentemos publicidade relevante que se adeque aos seus interesses?"
         },
         {
             "key": 28,
-            "valor": "Confirmar"
+            "value": "Confirmar"
         },
         {
             "key": 29,
-            "valor": "Saiba mais"
+            "value": "Saiba mais"
         },
         {
             "key": 30,
-            "valor": "Remover resposta errada"
+            "value": "Remover resposta errada"
         },
         {
             "key": 31,
-            "valor": "Remover duas respostas"
+            "value": "Remover duas respostas"
         },
         {
             "key": 32,
-            "valor": "Possibilidade de engano"
+            "value": "Possibilidade de engano"
         },
         {
             "key": 33,
@@ -2093,15 +2093,15 @@
         },
         {
             "key": 34,
-            "valor": "Ajuda de amigos"
+            "value": "Ajuda de amigos"
         },
         {
             "key": 35,
-            "valor": "Pergunte aos amigos"
+            "value": "Pergunte aos amigos"
         },
         {
             "key": 36,
-            "valor": "Aposta"
+            "value": "Aposta"
         },
         {
             "key": 37,
@@ -2109,31 +2109,31 @@
         },
         {
             "key": 38,
-            "valor": "Toque na letra para apagá-la. Deslize para apagar todas as letras."
+            "value": "Toque na letra para apagá-la. Deslize para apagar todas as letras."
         },
         {
             "key": 39,
-            "valor": "Raspe o filme para revelar a imagem!"
+            "value": "Raspe o filme para revelar a imagem!"
         },
         {
             "key": 40,
-            "valor": "Toque aqui para tornar a imagem mais clara. Requer ouro!"
+            "value": "Toque aqui para tornar a imagem mais clara. Requer ouro!"
         },
         {
             "key": 41,
-            "valor": "Toque na imagem para torná-la mais clara. Requer ouro!"
+            "value": "Toque na imagem para torná-la mais clara. Requer ouro!"
         },
         {
             "key": 42,
-            "valor": "Toque aqui para começar a mirar. Toque na segunda vez para atirar. Requer ouro!"
+            "value": "Toque aqui para começar a mirar. Toque na segunda vez para atirar. Requer ouro!"
         },
         {
             "key": 43,
-            "valor": "Toque na área para começar a mirar. Toque na segunda vez para atirar. Requer ouro!"
+            "value": "Toque na área para começar a mirar. Toque na segunda vez para atirar. Requer ouro!"
         },
         {
             "key": 44,
-            "valor": "Toque para obter informações úteis sobre a tarefa!"
+            "value": "Toque para obter informações úteis sobre a tarefa!"
         },
         {
             "key": 45,
@@ -2141,11 +2141,11 @@
         },
         {
             "key": 46,
-            "valor": "mais jogos"
+            "value": "mais jogos"
         },
         {
             "key": 47,
-            "valor": "Tentar novamente"
+            "value": "Tentar novamente"
         }
     ],
     "subCategories": [

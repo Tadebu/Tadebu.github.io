@@ -1,4 +1,4 @@
-﻿{
+{
     "tasksData": [
         {
             "name": "Robot Emotes",
@@ -1961,7 +1961,7 @@
         },
         {
             "key": 1,
-            "värde": "ungefär"
+            "value": "ungefär"
         },
         {
             "key": 2,
@@ -1969,15 +1969,15 @@
         },
         {
             "key": 3,
-            "värde": "tillbaka"
+            "value": "tillbaka"
         },
         {
             "key": 4,
-            "värde": "Gör dig redo att lösa några känslor! Fastnar? Använd olika tips! Tjäna mynt genom att slutföra uppgifter eller genom att titta på kort AD! Ha kul!"
+            "value": "Gör dig redo att lösa några känslor! Fastnar? Använd olika tips! Tjäna mynt genom att slutföra uppgifter eller genom att titta på kort AD! Ha kul!"
         },
         {
             "key": 5,
-            "värde": "låst"
+            "value": "låst"
         },
         {
             "key": 6,
@@ -2005,11 +2005,11 @@
         },
         {
             "key": 12,
-            "värde": "fortsätt"
+            "value": "fortsätt"
         },
         {
             "key": 13,
-            "värde": "huvudmeny"
+            "value": "huvudmeny"
         },
         {
             "key": 14,
@@ -2025,15 +2025,15 @@
         },
         {
             "key": 17,
-            "värde": "aldrig"
+            "value": "aldrig"
         },
         {
             "key": 18,
-            "värde": "senare"
+            "value": "senare"
         },
         {
             "key": 19,
-            "värde": "Samtycke till datainsamling"
+            "value": "Samtycke till datainsamling"
         },
         {
             "key": 20,
@@ -2045,11 +2045,11 @@
         },
         {
             "key": 22,
-            "värde": "ja"
+            "value": "ja"
         },
         {
             "key": 23,
-            "värde": "nej"
+            "value": "nej"
         },
         {
             "key": 24,
@@ -2109,7 +2109,7 @@
         },
         {
             "key": 38,
-            "värde": "Tryck på bokstaven för att rensa den. Svep för att rensa alla bokstäver."
+            "value": "Tryck på bokstaven för att rensa den. Svep för att rensa alla bokstäver."
         },
         {
             "key": 39,
@@ -2129,7 +2129,7 @@
         },
         {
             "key": 43,
-            "värde": "Knacka på området för att börja sikta. Tryck andra gången för att skjuta. Kräver guld!"
+            "value": "Knacka på området för att börja sikta. Tryck andra gången för att skjuta. Kräver guld!"
         },
         {
             "key": 44,
