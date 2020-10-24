@@ -1957,91 +1957,91 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "spela"
+            "value": "spielen"
         },
         {
             "key": 1,
-            "value": "om"
+            "value": "Über"
         },
         {
             "key": 2,
-            "value": "sluta"
+            "value": "Verlassen"
         },
         {
             "key": 3,
-            "value": "tillbaka"
+            "value": "zurück"
         },
         {
             "key": 4,
-            "value": "Gör dig redo att lösa några känslor! Fastnar du? Använd olika tips! Tjäna mynt genom att slutföra uppgifter eller genom att titta på kort AD! Ha så kul!"
+            "value": "Mach dich bereit, einige Emotes zu lösen! Steckenbleiben? Verwenden Sie verschiedene Hinweise! Verdiene Münzen, indem du Aufgaben erledigst oder kurze AD schaust! Habe Spaß!"
         },
         {
             "key": 5,
-            "value": "låst"
+            "value": "gesperrt"
         },
         {
             "key": 6,
-            "value": "Avslöja ett brev"
+            "value": "Einen Brief enthüllen"
         },
         {
             "key": 7,
-            "value": "Ta bort bokstäver"
+            "value": "Buchstaben entfernen"
         },
         {
             "key": 8,
-            "value": "Få svar"
+            "value": "Antwort erhalten"
         },
         {
             "key": 9,
-            "value": "Skaffa mynt"
+            "value": "Münzen holen"
         },
         {
             "key": 10,
-            "value": "Titta på AD"
+            "value": "AD ansehen"
         },
         {
             "key": 11,
-            "value": "Köp för riktiga pengar"
+            "value": "Für echtes Geld kaufen"
         },
         {
             "key": 12,
-            "value": "fortsätta"
+            "value": "Weiter"
         },
         {
             "key": 13,
-            "value": "huvudmeny"
+            "value": "Hauptmenü"
         },
         {
             "key": 14,
-            "value": "Nivå avklarad!"
+            "value": "Level abgeschlossen!"
         },
         {
             "key": 15,
-            "value": "Om du gillade spelet, betygsätt det på Google Play!"
+            "value": "Wenn dir das Spiel gefallen hat, bewerte es bitte bei Google Play!"
         },
         {
             "key": 16,
-            "value": "Betygsätta"
+            "value": "rate"
         },
         {
             "key": 17,
-            "value": "aldrig"
+            "value": "nie"
         },
         {
             "key": 18,
-            "value": "senare"
+            "value": "später"
         },
         {
             "key": 19,
-            "value": "Samtycke till datainsamling"
+            "value": "Datenerfassungsgenehmigung"
         },
         {
             "key": 20,
-            "value": "Personliga annonser"
+            "value": "Personalisierte Werbung"
         },
         {
             "key": 21,
-            "value": "Låt AD-nätverk använda insamlad data och visa personliga annonser"
+            "value": "Erlauben Sie AD-Netzwerken, auch gesammelte Daten zu verwenden und personalisierte Werbung anzuzeigen."
         },
         {
             "key": 22,
@@ -2049,103 +2049,103 @@
         },
         {
             "key": 23,
-            "value": "Nej"
+            "value": "nein"
         },
         {
             "key": 24,
-            "value": "Det verkar som om du har bättre framsteg!"
+            "value": "Sieht so aus, als hättest du bessere Fortschritte!"
         },
         {
             "key": 25,
-            "value": "Vill du ladda den?"
+            "value": "Möchten Sie es laden?"
         },
         {
             "key": 26,
-            "value": "Hej där! Bara för att meddela dig använder vi din spel- och enhetsdata med ditt samtycke för att förbättra vårt spel!"
+            "value": "Hallo! Um Sie wissen zu lassen, verwenden wir Ihre Gameplay- und Gerätedaten mit Ihrer Zustimmung, um unser Spiel zu verbessern!"
         },
         {
             "key": 27,
-            "value": "Vill du att vi presenterar relevant reklam som passar dina intressen?"
+            "value": "Möchten Sie, dass wir Ihnen relevante Werbung präsentieren, die Ihren Interessen entspricht?"
         },
         {
             "key": 28,
-            "value": "Bekräfta"
+            "value": "Bestätigen"
         },
         {
             "key": 29,
-            "value": "Läs mer"
+            "value": "Weitere Informationen"
         },
         {
             "key": 30,
-            "value": "Ta bort fel svar"
+            "value": "Falsche Antwort entfernen"
         },
         {
             "key": 31,
-            "value": "Ta bort två svar"
+            "value": "Zwei Antworten entfernen"
         },
         {
             "key": 32,
-            "value": "Risk för misstag"
+            "value": "Chanse zu verwechseln"
         },
         {
             "key": 33,
-            "value": "Snälla, hjälp mig att slutföra nivån!"
+            "value": "Bitte hilf mir das Level zu beenden!"
         },
         {
             "key": 34,
-            "value": "Hjälp från vänner"
+            "value": "Hilfe von Freunden"
         },
         {
             "key": 35,
-            "value": "Fråga vänner"
+            "value": "Freunde fragen"
         },
         {
             "key": 36,
-            "value": "Bet"
+            "value": "Wette"
         },
         {
             "key": 37,
-            "value": "Använd tips om du fastnar!"
+            "value": "Verwenden Sie Hinweise, wenn Sie stecken bleiben!"
         },
         {
             "key": 38,
-            "value": "Tryck på bokstaven för att rensa den. Svep för att rensa alla bokstäver."
+            "value": "Tippen Sie auf den Buchstaben, um ihn zu löschen. Wischen Sie, um alle Buchstaben zu löschen."
         },
         {
             "key": 39,
-            "value": "Skrapa filmen för att avslöja bilden!"
+            "value": "Kratzen Sie den Film, um das Bild zu enthüllen!"
         },
         {
             "key": 40,
-            "value": "Tryck här för att göra bilden tydligare. Kräver guld!"
+            "value": "Tippen Sie hier, um das Bild klarer zu machen. Benötigt Gold!"
         },
         {
             "key": 41,
-            "value": "Tryck på bilden för att göra den tydligare. Kräver guld!"
+            "value": "Tippen Sie auf das Bild, um es klarer zu machen. Benötigt Gold!"
         },
         {
             "key": 42,
-            "value": "Knacka här för att börja sikta. Tryck andra gången för att skjuta. Kräver guld!"
+            "value": "Tippen Sie hier, um mit dem Zielen zu beginnen. Tippen Sie zum zweiten Mal auf, um zu schießen. Benötigt Gold!"
         },
         {
             "key": 43,
-            "value": "Knacka på området för att börja sikta. Tryck andra gången för att skjuta. Kräver guld!"
+            "value": "Tippen Sie auf den Bereich, um mit dem Zielen zu beginnen. Tippen Sie zum zweiten Mal auf, um zu schießen. Benötigt Gold!"
         },
         {
             "key": 44,
-            "value": "Tryck för att få användbar information om uppgiften!"
+            "value": "Tippen Sie hier, um nützliche Informationen über die Aufgabe zu erhalten!"
         },
         {
             "key": 45,
-            "value": "Hur svårt den här emoten är? Gör en rätt insats!"
+            "value": "Wie schwierig ist dieses Emote? Machen Sie eine richtige Wette!"
         },
         {
             "key": 46,
-            "value": "more games"
+            "value": "mehr Spiele"
         },
         {
             "key": 47,
-            "value": "Försök igen"
+            "value": "Wiederholen"
         }
     ],
     "subCategories": [
