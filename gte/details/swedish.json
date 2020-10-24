@@ -1957,7 +1957,7 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "spela"
         },
         {
             "key": 1,
@@ -2013,7 +2013,7 @@
         },
         {
             "key": 14,
-            "value": "Level complete!"
+            "value": "Nivå avklarad!"
         },
         {
             "key": 15,
@@ -2101,7 +2101,7 @@
         },
         {
             "key": 36,
-            "value": "Bet"
+            "value": "Slå vad"
         },
         {
             "key": 37,
@@ -2141,7 +2141,7 @@
         },
         {
             "key": 46,
-            "value": "more games"
+            "value": "mer spel"
         },
         {
             "key": 47,
