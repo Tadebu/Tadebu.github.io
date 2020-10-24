@@ -1,4 +1,4 @@
-{
+﻿{
     "tasksData": [
         {
             "name": "Robot Emotes",
@@ -1957,195 +1957,195 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "играть"
         },
         {
             "key": 1,
-            "value": "about"
+            "value": "о"
         },
         {
             "key": 2,
-            "value": "quit"
+            "value": "выйти"
         },
         {
             "key": 3,
-            "value": "back"
+            "value": "назад"
         },
         {
             "key": 4,
-            "value": "Get ready to solve some emotes! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+            "value": "Будьте готовы решить несколько эмоций! Застрять? Используйте разные подсказки! Зарабатывайте монеты, выполняя задания или просматривая короткую рекламу! Получайте удовольствие!"
         },
         {
             "key": 5,
-            "value": "locked"
+            "value": "заблокировано"
         },
         {
             "key": 6,
-            "value": "Reveal a letter"
+            "value": "Показать письмо"
         },
         {
             "key": 7,
-            "value": "Remove letters"
+            "value": "Удалить буквы"
         },
         {
             "key": 8,
-            "value": "Get an answer"
+            "value": "Получить ответ"
         },
         {
             "key": 9,
-            "value": "Get coins"
+            "value": "Получить монеты"
         },
         {
             "key": 10,
-            "value": "Watch AD"
+            "value": "Смотреть AD"
         },
         {
             "key": 11,
-            "value": "Buy for real money"
+            "value": "Купить за реальные деньги"
         },
         {
             "key": 12,
-            "value": "continue"
+            "value": "продолжить"
         },
         {
             "key": 13,
-            "value": "main menu"
+            "value": "главное меню"
         },
         {
             "key": 14,
-            "value": "Level complete!"
+            "value": "Уровень пройден!"
         },
         {
             "key": 15,
-            "value": "If you liked the game, please rate it on Google Play!"
+            "value": "Если вам понравилась игра, оцените ее в Google Play!"
         },
         {
             "key": 16,
-            "value": "rate"
+            "value": "ставка"
         },
         {
             "key": 17,
-            "value": "never"
+            "value": "никогда"
         },
         {
             "key": 18,
-            "value": "later"
+            "value": "позже"
         },
         {
             "key": 19,
-            "value": "Data collection consent"
+            "value": "Согласие на сбор данных"
         },
         {
             "key": 20,
-            "value": "Personalized advertisements"
+            "value": "Персонализированная реклама"
         },
         {
             "key": 21,
-            "value": "Allow AD networks too use collected data and show personalized advertisements"
+            "value": "Разрешить сетям AD также использовать собранные данные и показывать персонализированную рекламу"
         },
         {
             "key": 22,
-            "value": "yes"
+            "value": "да"
         },
         {
             "key": 23,
-            "value": "no"
+            "value": "нет"
         },
         {
             "key": 24,
-            "value": "Looks like you have better progress!"
+            "value": "Похоже, у вас лучший прогресс!"
         },
         {
             "key": 25,
-            "value": "Do you want to load it?"
+            "value": "Вы хотите его загрузить?"
         },
         {
             "key": 26,
-            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+            "value": "Здравствуйте! Чтобы вы знали, мы используем ваш игровой процесс и данные устройства с вашего согласия для улучшения нашей игры!"
         },
         {
             "key": 27,
-            "value": "Do you want us to present you relevant advertising that fits your interests?"
+            "value": "Хотите, чтобы мы представляли вам релевантную рекламу, которая соответствует вашим интересам?"
         },
         {
             "key": 28,
-            "value": "Confirm"
+            "value": "Подтвердить"
         },
         {
             "key": 29,
-            "value": "Learn more"
+            "value": "Узнать больше"
         },
         {
             "key": 30,
-            "value": "Remove wrong answer"
+            "value": "Удалить неправильный ответ"
         },
         {
             "key": 31,
-            "value": "Remove two answers"
+            "value": "Удалить два ответа"
         },
         {
             "key": 32,
-            "value": "Chanse to mistake"
+            "value": "Возможность ошибиться"
         },
         {
             "key": 33,
-            "value": "Please, help me to complete the level!"
+            "value": "Помогите, пожалуйста, пройти уровень!"
         },
         {
             "key": 34,
-            "value": "Help from friends"
+            "value": "Помощь друзей"
         },
         {
             "key": 35,
-            "value": "Ask friends"
+            "value": "Спроси у друзей"
         },
         {
             "key": 36,
-            "value": "Bet"
+            "value": "Ставка"
         },
         {
             "key": 37,
-            "value": "Use hints if you get stucked!"
+            "value": "Используйте подсказки, если вы застряли!"
         },
         {
             "key": 38,
-            "value": "Tap the letter to clear it. Swipe to clear all letters."
+            "value": "Нажмите на букву, чтобы очистить ее. Проведите, чтобы удалить все буквы".
         },
         {
             "key": 39,
-            "value": "Scrape the film to reveal the image!"
+            "value": "Поскребите пленку, чтобы открыть изображение!"
         },
         {
             "key": 40,
-            "value": "Tap this to make the image more clear. Requires gold!"
+            "value": "Нажмите, чтобы сделать изображение более четким. Требуется золото!"
         },
         {
             "key": 41,
-            "value": "Tap the image to make it more clear. Requires gold!"
+            "value": "Нажмите на изображение, чтобы сделать его более четким. Требуется золото!"
         },
         {
             "key": 42,
-            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "Нажмите, чтобы начать прицеливание. Нажмите второй раз, чтобы выстрелить. Требуется золото!"
         },
         {
             "key": 43,
-            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "Нажмите на область, чтобы начать прицеливание. Нажмите второй раз, чтобы выстрелить. Требуется золото!"
         },
         {
             "key": 44,
-            "value": "Tap to get usefull info about the task!"
+            "value": "Нажмите, чтобы получить полезную информацию о задаче!"
         },
         {
             "key": 45,
-            "value": "How difficult this emote is? Make a right bet!"
+            "value": "Насколько сложна эта эмоция? Сделайте правильную ставку!"
         },
         {
             "key": 46,
-            "value": "more games"
+            "value": "больше игр"
         },
         {
             "key": 47,
-            "value": "Retry"
+            "value": "Повторить попытку"
         }
     ],
     "subCategories": [

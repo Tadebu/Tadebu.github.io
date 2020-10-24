@@ -1957,11 +1957,11 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "afspelen"
         },
         {
             "key": 1,
-            "value": "about"
+            "waarde": "ongeveer"
         },
         {
             "key": 2,
@@ -1969,183 +1969,183 @@
         },
         {
             "key": 3,
-            "value": "back"
+            "waarde": "terug"
         },
         {
             "key": 4,
-            "value": "Get ready to solve some emotes! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+            "value": "Maak je klaar om enkele emotes op te lossen! Loop je vast? Gebruik verschillende hints! Verdien munten door taken te voltooien of door naar korte AD te kijken! Veel plezier!"
         },
         {
             "key": 5,
-            "value": "locked"
+            "waarde": "vergrendeld"
         },
         {
             "key": 6,
-            "value": "Reveal a letter"
+            "value": "Onthul een brief"
         },
         {
             "key": 7,
-            "value": "Remove letters"
+            "value": "Letters verwijderen"
         },
         {
             "key": 8,
-            "value": "Get an answer"
+            "value": "Krijg een antwoord"
         },
         {
             "key": 9,
-            "value": "Get coins"
+            "value": "Munten ophalen"
         },
         {
             "key": 10,
-            "value": "Watch AD"
+            "value": "Bekijk advertentie"
         },
         {
             "key": 11,
-            "value": "Buy for real money"
+            "value": "Koop voor echt geld"
         },
         {
             "key": 12,
-            "value": "continue"
+            "waarde": "doorgaan"
         },
         {
             "key": 13,
-            "value": "main menu"
+            "value": "hoofdmenu"
         },
         {
             "key": 14,
-            "value": "Level complete!"
+            "value": "Level voltooid!"
         },
         {
             "key": 15,
-            "value": "If you liked the game, please rate it on Google Play!"
+            "value": "Als je het spel leuk vond, beoordeel het dan op Google Play!"
         },
         {
             "key": 16,
-            "value": "rate"
+            "waarde": "tarief"
         },
         {
             "key": 17,
-            "value": "never"
+            "waarde": "nooit"
         },
         {
             "key": 18,
-            "value": "later"
+            "waarde": "later"
         },
         {
             "key": 19,
-            "value": "Data collection consent"
+            "value": "Toestemming voor gegevensverzameling"
         },
         {
             "key": 20,
-            "value": "Personalized advertisements"
+            "value": "Gepersonaliseerde advertenties"
         },
         {
             "key": 21,
-            "value": "Allow AD networks too use collected data and show personalized advertisements"
+            "value": "Sta ook toe dat AD-netwerken verzamelde gegevens gebruiken en gepersonaliseerde advertenties tonen"
         },
         {
             "key": 22,
-            "value": "yes"
+            "waarde": "ja"
         },
         {
             "key": 23,
-            "value": "no"
+            "waarde": "nee"
         },
         {
             "key": 24,
-            "value": "Looks like you have better progress!"
+            "value": "Het lijkt erop dat je betere voortgang boekt!"
         },
         {
             "key": 25,
-            "value": "Do you want to load it?"
+            "value": "Wil je het laden?"
         },
         {
             "key": 26,
-            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+            "value": "Hallo daar! Om u te laten weten, we gebruiken uw gameplay- en apparaatgegevens met uw toestemming om ons spel te verbeteren!"
         },
         {
             "key": 27,
-            "value": "Do you want us to present you relevant advertising that fits your interests?"
+            "waarde": "Wilt u dat wij u relevante advertenties aanbieden die bij uw interesses passen?"
         },
         {
             "key": 28,
-            "value": "Confirm"
+            "value": "Bevestigen"
         },
         {
             "key": 29,
-            "value": "Learn more"
+            "value": "Meer informatie"
         },
         {
             "key": 30,
-            "value": "Remove wrong answer"
+            "value": "Verwijder fout antwoord"
         },
         {
             "key": 31,
-            "value": "Remove two answers"
+            "value": "Twee antwoorden verwijderen"
         },
         {
             "key": 32,
-            "value": "Chanse to mistake"
+            "value": "Chanse to fout"
         },
         {
             "key": 33,
-            "value": "Please, help me to complete the level!"
+            "value": "Help me alsjeblieft om het level te voltooien!"
         },
         {
             "key": 34,
-            "value": "Help from friends"
+            "value": "Hulp van vrienden"
         },
         {
             "key": 35,
-            "value": "Ask friends"
+            "value": "Vraag vrienden"
         },
         {
             "key": 36,
-            "value": "Bet"
+            "value": "Inzet"
         },
         {
             "key": 37,
-            "value": "Use hints if you get stucked!"
+            "value": "Gebruik hints als je vastloopt!"
         },
         {
             "key": 38,
-            "value": "Tap the letter to clear it. Swipe to clear all letters."
+            "value": "Tik op de letter om deze te wissen. Veeg om alle letters te wissen."
         },
         {
             "key": 39,
-            "value": "Scrape the film to reveal the image!"
+            "value": "Schraap de film om de afbeelding te onthullen!"
         },
         {
             "key": 40,
-            "value": "Tap this to make the image more clear. Requires gold!"
+            "value": "Tik hierop om de afbeelding duidelijker te maken. Goud vereist!"
         },
         {
             "key": 41,
-            "value": "Tap the image to make it more clear. Requires gold!"
+            "value": "Tik op de afbeelding om deze duidelijker te maken. Goud vereist!"
         },
         {
             "key": 42,
-            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "Tik hierop om te beginnen met richten. Tik een tweede keer om te schieten. Goud vereist!"
         },
         {
             "key": 43,
-            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "Tik op het gebied om te beginnen met richten. Tik nogmaals om te schieten. Goud vereist!"
         },
         {
             "key": 44,
-            "value": "Tap to get usefull info about the task!"
+            "value": "Tik om nuttige informatie over de taak te krijgen!"
         },
         {
             "key": 45,
-            "value": "How difficult this emote is? Make a right bet!"
+            "value": "Hoe moeilijk is deze emote? Maak een goede gok!"
         },
         {
             "key": 46,
-            "value": "more games"
+            "value": "meer games"
         },
         {
             "key": 47,
-            "value": "Retry"
+            "value": "Opnieuw proberen"
         }
     ],
     "subCategories": [
