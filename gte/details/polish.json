@@ -1,0 +1,2186 @@
+{
+    "tasksData": [
+        {
+            "name": "Robot Emotes",
+            "localizedName": "Robot Emotes",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": ":)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": ":(",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": ":o",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": ":z",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "B)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": ":\\",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": ";)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": ";p",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": ":p",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "R)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": ":D",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": ">(",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "<3",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Turbo Emotes",
+            "localizedName": "Turbo Emotes",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": ":)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 1,
+                    "rightAnswer": ":(",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": ":o",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": ":z",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "B)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": ":\\",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": ";)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": ";p",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": ":p",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "R)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": ":D",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": ">(",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "<3",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Turbo Emotes Monkey",
+            "localizedName": "Turbo Emotes Monkey",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "<3",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "R)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": ":>",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "<]",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": ":7",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": ":(",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": ":P",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": ";P",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": ":O",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": ":\\",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": ":|",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": ":s",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": ":D",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": ">(",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": ":)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "B)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": ";)",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "#/",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Global Emotes",
+            "localizedName": "Global Emotes",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 5,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "ALLINTOVOTE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "ANELE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "ArgieB8",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "AsianGlow",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "BabyRage",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "BatChest",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "BegWan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "BibleThump",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "BigPhish",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "BlackLivesMatter",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "BlargNaut",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "bleedPurple",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "BloodTrail",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "BOP",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "BrainSlug",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "BrokeBack",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "BuddhaBar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "CarlSmile",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "ChefFrank",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "cmonBruh",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "CoolCat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "CoolStoryBob",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "copyThis",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "CrreamAwk",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "CurseLit",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "DansGame",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "DarkMode",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "DatSheffy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "DendiFace",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "DogFace",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "DoritosChip",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "DrinkPurple",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "duDudu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "DxCat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "EarthDay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "EleGiggle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "EntropyWins",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "ExtraLife",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "FBBlock",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "FBCatch",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "FBChallenge",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "FBPass",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "FBPenalty",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "FBRun",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "FBSpiral",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "FBtouchdown",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "FootBall",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "FootGoal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "FootYellow",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "FreakinStinkin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "FutureMan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "GivePLZ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "GrammarKing",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "GreenTeam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "GunRun",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "HassaanChop",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "HeyGuys",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "HolidayCookie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "HolidayLog",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "HolidayOrnament",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "HolidayPresent",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "HolidaySanta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "HolidayTree",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "HSCheers",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "HSWP",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "imGlitch",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "InuyoFace",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "Jebaited",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "kapow",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "KappaClaus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "KappaPride",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "KappaRoss",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "KappaWealth",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "Kappu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "KomodoHype",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "KonCha",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "LUL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "Mau5",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "MaxLOL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "mcaT",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "MercyWing1",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "MercyWing2",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "MikeHogu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "MingLee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "MorphinTime",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "MrDestructoid",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "MVGame",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "NinjaGrumpy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "NomNom",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "NotATK",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "NotLikeThis",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "OhMyDog",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "OpieOP",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "OSFrog",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "panicBasket",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "PanicVis",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "PartyHat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "PartyTime",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "pastaThat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "PeoplesChamp",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "PermaSmug",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "PicoMause",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "PinkMercy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "PipeHype",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "PixelBob",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "PJSugar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "Poooound",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "PopCorn",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "PorscheWIN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "PowerUpL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "PowerUpR",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "PraiseIt",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "PRChase",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "PrimeMe",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "PunchTrees",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "PunOko",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "PurpleStar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "RaccAttack",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "RedTeam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "riPepperonis",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "RitzMitz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "RlyTho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "RuleFive",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "SabaPing",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "SeemsGood",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "SeriousSloth",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "ShadyLulu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "ShowOfHands",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "SingsMic",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "SingsNote",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "SmoocherZ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "SoonerLater",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "Squid1",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "Squid2",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "Squid3",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "Squid4",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "StinkyCheese",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "StrawBeary",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "SuperVinlin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "TakeNRG",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "TBAngel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "TearGlove",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "TehePelo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "ThankEgg",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "TheIlluminati",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "TheTarFu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "TheThing",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "TinyFace",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "TombRaid",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "TooSpicy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 151,
+                    "rightAnswer": "TPcrunchyroll",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 152,
+                    "rightAnswer": "TPFufun",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 153,
+                    "rightAnswer": "TriHard",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 154,
+                    "rightAnswer": "TTours",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 155,
+                    "rightAnswer": "TwitchLit",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 156,
+                    "rightAnswer": "twitchRaid",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 157,
+                    "rightAnswer": "TwitchRPG",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 158,
+                    "rightAnswer": "TwitchSings",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 159,
+                    "rightAnswer": "TwitchVotes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 160,
+                    "rightAnswer": "UncleNox",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 161,
+                    "rightAnswer": "UnSane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 162,
+                    "rightAnswer": "UWot",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 163,
+                    "rightAnswer": "VoHiYo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 164,
+                    "rightAnswer": "VoteNay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 165,
+                    "rightAnswer": "VoteYea",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 166,
+                    "rightAnswer": "WTRuck",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 167,
+                    "rightAnswer": "WutFace",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 168,
+                    "rightAnswer": "YouDontSay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 169,
+                    "rightAnswer": "YouWHY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "graj"
+        },
+        {
+            "key": 1,
+            "value": "o grze"
+        },
+        {
+            "key": 2,
+            "value": "wyjdz"
+        },
+        {
+            "key": 3,
+            "value": "cofnij"
+        },
+        {
+            "key": 4,
+            "value": "Badz gotow stawic czola emotkom! utknales? Uzyj roznych podpowiedzi, lec dalej! Zdobywaj monety za zgadywanie badz ogladanie reklam! Milej zabawy!"
+        },
+        {
+            "key": 5,
+            "value": "zablokowane"
+        },
+        {
+            "key": 6,
+            "value": "odkryj literke"
+        },
+        {
+            "key": 7,
+            "value": "Usun literki"
+        },
+        {
+            "key": 8,
+            "value": "dostan odpowiedz"
+        },
+        {
+            "key": 9,
+            "value": "zdobadz monety"
+        },
+        {
+            "key": 10,
+            "value": "Obejrzyj reklame"
+        },
+        {
+            "key": 11,
+            "value": "Kup za prawdziwe pieniadze"
+        },
+        {
+            "key": 12,
+            "value": "Dalej"
+        },
+        {
+            "key": 13,
+            "value": "Glowne menu"
+        },
+        {
+            "key": 14,
+            "value": "Ukonczono poziom!"
+        },
+        {
+            "key": 15,
+            "value": "Jezeli lubisz gre, pozostaw po sobie ocene w google play!"
+        },
+        {
+            "key": 16,
+            "value": "Ocen"
+        },
+        {
+            "key": 17,
+            "value": "Nigdy"
+        },
+        {
+            "key": 18,
+            "value": "Pozniej"
+        },
+        {
+            "key": 19,
+            "value": "Zgoda na gromadzenie danych"
+        },
+        {
+            "key": 20,
+            "value": "Spersonalizowane reklamy"
+        },
+        {
+            "key": 21,
+            "value": "Zezwalaj sieciom AD na u¿ywanie zebranych danych i wyœwietlanie spersonalizowanych reklam"
+        },
+        {
+            "key": 22,
+            "value": "tak"
+        },
+        {
+            "key": 23,
+            "value": "nie
+        },
+        {
+            "key": 24,
+            "value": "Wygl¹da na to, ¿e masz wiêksze postêpy!"
+        },
+        {
+            "key": 25,
+            "value": "Czy chcesz go za³adowaæ?"
+        },
+        {
+            "key": 26,
+            "value": "Witam! Aby Ciê poinformowaæ, wykorzystujemy Twoje dane dotycz¹ce gry i urz¹dzenia za Twoj¹ zgod¹, aby ulepszyæ nasz¹ grê!"
+        },
+        {
+            "key": 27,
+            "value": "Czy chcesz, abyœmy przedstawiali Ci trafne reklamy, które odpowiadaj¹ Twoim zainteresowaniom?"
+        },
+        {
+            "key": 28,
+            "value": "Tak"
+        },
+        {
+            "key": 29,
+            "value": "Poznaj wiecej"
+        },
+        {
+            "key": 30,
+            "value": "Usuñ b³êdn¹ odpowiedŸ"
+        },
+        {
+            "key": 31,
+            "value": "Usuñ dwie odpowiedzi"
+        },
+        {
+            "key": 32,
+            "value": "Szansa na b³¹d"
+        },
+        {
+            "key": 33,
+            "value": "Proszê, pomó¿ mi ukoñczyæ poziom!"
+        },
+        {
+            "key": 34,
+            "value": "Pomoc od przyjació³"
+        },
+        {
+            "key": 35,
+            "value": "Zapytaj przyjació³"
+        },
+        {
+            "key": 36,
+            "value": "Zak³ad"
+        },
+        {
+            "key": 37,
+            "value": "Skorzystaj ze wskazówek, jeœli utkniesz!"
+        },
+        {
+            "key": 38,
+            "value": "Dotknij litery, aby j¹ wyczyœciæ. Przesuñ, aby usun¹æ wszystkie litery."
+        },
+        {
+            "key": 39,
+            "value": "Zeskrob zdrabke, aby ods³oniæ emotke!"
+        },
+        {
+            "key": 40,
+            "value": "Dotknij tego, aby obraz by³ wyraŸniejszy. Wymaga monety!"
+        },
+        {
+            "key": 41,
+            "value": "Dotknij obrazu, aby by³ wyraŸniejszy. Wymaga monety!"
+        },
+        {
+            "key": 42,
+            "value": "Dotknij, aby rozpocz¹æ celowanie. Dotknij po raz drugi, aby strzelaæ. Wymaga monety!"
+        },
+        {
+            "key": 43,
+            "value": "Dotknij obszaru, aby rozpocz¹æ celowanie. Dotknij po raz drugi, aby strzelaæ. Wymaga monety!"
+        },
+        {
+            "key": 44,
+            "value": "Dotknij, aby uzyskaæ przydatne informacje o zadaniu!"
+        },
+        {
+            "key": 45,
+            "value": "Jak trudna jest ta emotka? Zrób dobry zak³ad!"
+        },
+        {
+            "key": 46,
+            "value": "Wiecej Gier"
+        },
+        {
+            "key": 47,
+            "value": "Spróbuj ponownie"
+        }
+    ],
+    "subCategories": [
+        {
+            "iconName": "Twitch",
+            "localizedTitle": "Twitch",
+            "subcategories": [
+                "Robot Emotes",
+                "Turbo Emotes",
+                "Turbo Emotes Monkey"
+            ]
+        },
+        {
+            "iconName": "BTTV",
+            "localizedTitle": "BTTV",
+            "subcategories": [
+                "BTTV"
+            ]
+        }
+    ],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        114,
+        106,
+        118,
+        117,
+        99,
+        113,
+        105,
+        122,
+        120,
+        108
+    ]
+}
