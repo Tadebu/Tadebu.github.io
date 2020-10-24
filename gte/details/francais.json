@@ -1957,11 +1957,11 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "jouer"
         },
         {
             "key": 1,
-            "value": "about"
+            "value": "sur"
         },
         {
             "key": 2,
