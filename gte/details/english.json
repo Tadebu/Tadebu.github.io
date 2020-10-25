@@ -2163,14 +2163,14 @@
             "iconName": "Streamer Twitch Emotes",
             "localizedTitle": "Streamer Twitch",
             "subcategories": [
-                "Robot Emotes"
+                "Streamer Twitch Emotes"
             ]
         },
         {
-            "iconName": "Streamer Twitch Emotes BTTV",
+            "iconName": "BTTV",
             "localizedTitle": "Streamer Twitch BTTV",
             "subcategories": [
-                "Global Emotes"
+                "Streamer Twitch Emotes BTTV"
             ]
         }
     ],
