@@ -2151,18 +2151,26 @@
     "subCategories": [
         {
             "iconName": "Twitch",
-            "localizedTitle": "Twitch",
+            "localizedTitle": "Twitch Global",
             "subcategories": [
                 "Robot Emotes",
                 "Turbo Emotes",
-                "Turbo Emotes Monkey"
+                "Turbo Emotes Monkey",
+                "Global Emotes"
+            ]
+        },
+        {
+            "iconName": "Streamer Twitch Emotes",
+            "localizedTitle": "Streamer Twitch",
+            "subcategories": [
+                "Streamer Twitch Emotes"
             ]
         },
         {
             "iconName": "BTTV",
-            "localizedTitle": "BTTV",
+            "localizedTitle": "Streamer BTTV",
             "subcategories": [
-                "BTTV"
+                "Streamer Twitch Emotes BTTV"
             ]
         }
     ],
