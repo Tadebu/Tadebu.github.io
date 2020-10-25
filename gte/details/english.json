@@ -2161,7 +2161,14 @@
         },
         {
             "iconName": "Streamer Twitch Emotes",
-            "localizedTitle": "Streamer Twitch Emotes",
+            "localizedTitle": "Streamer Twitch",
+            "subcategories": [
+                "Robot Emotes"
+            ]
+        },
+        {
+            "iconName": "Streamer Twitch Emotes",
+            "localizedTitle": "Streamer Twitch BTTV",
             "subcategories": [
                 "Global Emotes"
             ]
