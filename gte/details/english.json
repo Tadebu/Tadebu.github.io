@@ -2155,12 +2155,13 @@
             "subcategories": [
                 "Robot Emotes",
                 "Turbo Emotes",
-                "Turbo Emotes Monkey"
+                "Turbo Emotes Monkey",
+                "Global Emotes"
             ]
         },
         {
-            "iconName": "BTTV",
-            "localizedTitle": "BTTV",
+            "iconName": "Streamer Twitch Emotes",
+            "localizedTitle": "Streamer Twitch Emotes",
             "subcategories": [
                 "Global Emotes"
             ]
