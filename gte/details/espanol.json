@@ -1955,10 +1955,10 @@
         },
         {
             "name": "Greekgodx",
-            "localizedName": "greekgodx",
+            "localizedName": "Greekgodx",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 2,
+            "orderNumber": 5,
             "Levels": [
                 {
                     "number": 1,

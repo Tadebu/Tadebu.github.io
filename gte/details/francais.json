@@ -1955,10 +1955,10 @@
         },
         {
             "name": "Greekgodx",
-            "localizedName": "greekgodx",
+            "localizedName": "Greekgodx",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 2,
+            "orderNumber": 5,
             "Levels": [
                 {
                     "number": 1,
@@ -2586,7 +2586,7 @@
             "iconName": "Streamer Twitch Emotes",
             "localizedTitle": "Streamer Twitch",
             "subcategories": [
-                "Streamer Twitch Emotes"
+                "Greekgodx"
             ]
         },
         {
